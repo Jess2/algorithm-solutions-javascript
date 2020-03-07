@@ -9,15 +9,14 @@ let letterCombinations = function(digits) {
     if (digits.length === 0) return resultArr;
 
     resultArr.push("");
-    for (let i = 0; i < digits.length; i++){ // digits.length === 2
+    for (let i = 0; i < digits.length; i++){
         let temp = [];
-        let digitStr = digitsArr[digits[i]-2]; // i : 0 -> 2 -> "abc", i : 1 -> 3 -> "def"
-        for (let j = 0; j < digitStr.length; j++){ // digitStr.length === 3
+        let digitStr = digitsArr[digits[i]-2];
+        for (let j = 0; j < digitStr.length; j++) {
             for (let k = 0; k < resultArr.length; k++){
-                temp.push(resultArr[k]+digitStr[j]); // "" + a,
+                temp.push(resultArr[k]+digitStr[j]);
             }
         }
-        console.log(temp)
         resultArr = temp;
     }
 
