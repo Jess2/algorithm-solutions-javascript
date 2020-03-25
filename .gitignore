@@ -1,4 +1,4 @@
-etc/
+src/etc/
 .idea/.gitignore
 .idea/leetcode-solutions.iml
 .idea/misc.xml
