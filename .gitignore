@@ -1,0 +1,6 @@
+etc/
+.idea/.gitignore
+.idea/leetcode-solutions.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
