@@ -1,4 +1,4 @@
-src/etc/
+src/codingTest/
 .idea/.gitignore
 .idea/leetcode-solutions.iml
 .idea/misc.xml
