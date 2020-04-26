@@ -17,10 +17,11 @@ let isValid = function(s) {
     } else if (s[i] !== stack.pop()) {
       return false;
     }
+    console.log(stack)
   }
 
   return !stack.length;
 };
 
-let result = isValid("{[]}");
+let result = isValid("()[]");
 console.log(result);
