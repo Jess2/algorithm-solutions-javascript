@@ -21,4 +21,4 @@ let findContentChildren = function(g, s) {
   return count;
 };
 
-console.log(findContentChildren([1,2,3], [1,1]));
+console.log(findContentChildren([1,2,3,4], [1,1]));
