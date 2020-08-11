@@ -1,4 +1,4 @@
-# javascript-algorithm-solutions
+# algorithm-solutions-javascript
 > 알고리즘 문제풀이 저장소
 
 ### Language
@@ -8,3 +8,6 @@
 - [Codility](https://github.com/JESS2/javascript-algorithm-solutions/tree/master/src/codility)
 - [LeetCode](https://github.com/JESS2/javascript-algorithm-solutions/tree/master/src/leetCode)
 - [Programmers](https://github.com/JESS2/javascript-algorithm-solutions/tree/master/src/programmers)
+
+### etc.
+- [Java 알고리즘 문제풀이 저장소](https://github.com/JESS2/algorithm-solutions-java)
