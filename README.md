@@ -8,4 +8,3 @@
 - [Codility](https://github.com/JESS2/javascript-algorithm-solutions/tree/master/src/codility)
 - [LeetCode](https://github.com/JESS2/javascript-algorithm-solutions/tree/master/src/leetCode)
 - [Programmers](https://github.com/JESS2/javascript-algorithm-solutions/tree/master/src/programmers)
-- [BOJ](https://github.com/JESS2/javascript-algorithm-solutions/tree/master/src/boj)
