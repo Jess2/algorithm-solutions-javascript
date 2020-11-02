@@ -15,4 +15,4 @@ let solution = function(n, arr) {
   return resultSum;
 };
 
-console.log(solution(500, [93, 181, 245, 214, 315, 36, 185, 138, 216, 295]));
+console.log(solution(21, [5, 6, 7, 8, 9]));
